@@ -1,0 +1,1280 @@
+[
+    {
+        "Country": "United States",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "23,315,081"
+    },
+    {
+        "Country": "China",
+        "Region": "Asia",
+        "Year": "[n 1]2021",
+        "Estimate GDP": "17,734,131"
+    },
+    {
+        "Country": "Japan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "4,940,878"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "4,259,935"
+    },
+    {
+        "Country": "India",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "3,201,471"
+    },
+    {
+        "Country": "United Kingdom",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "3,131,378"
+    },
+    {
+        "Country": "France",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "2,957,880"
+    },
+    {
+        "Country": "Italy",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "2,107,703"
+    },
+    {
+        "Country": "Canada",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "1,988,336"
+    },
+    {
+        "Country": "Brazil",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "1,608,981"
+    },
+    {
+        "Country": "Russia",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "1,778,782"
+    },
+    {
+        "Country": "South Korea",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "1,810,966"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "1,734,532"
+    },
+    {
+        "Country": "Mexico",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "1,272,839"
+    },
+    {
+        "Country": "Spain",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "1,427,381"
+    },
+    {
+        "Country": "Indonesia",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "1,186,093"
+    },
+    {
+        "Country": "Netherlands",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "1,012,847"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "833,541"
+    },
+    {
+        "Country": "Turkey",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "819,034"
+    },
+    {
+        "Country": "Switzerland",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "812,867"
+    },
+    {
+        "Country": "Taiwan",
+        "Region": "Asia",
+        "Year": "\u2014",
+        "Estimate GDP": "\u2014"
+    },
+    {
+        "Country": "Poland",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "679,442"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "487,227"
+    },
+    {
+        "Country": "Belgium",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "594,104"
+    },
+    {
+        "Country": "Sweden",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "635,664"
+    },
+    {
+        "Country": "Ireland",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "504,183"
+    },
+    {
+        "Country": "Thailand",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "505,982"
+    },
+    {
+        "Country": "Norway",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "482,175"
+    },
+    {
+        "Country": "Israel",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "481,591"
+    },
+    {
+        "Country": "Singapore",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "396,992"
+    },
+    {
+        "Country": "Austria",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "480,368"
+    },
+    {
+        "Country": "Nigeria",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "430,923"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "405,468"
+    },
+    {
+        "Country": "Vietnam",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "366,138"
+    },
+    {
+        "Country": "Malaysia",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "372,702"
+    },
+    {
+        "Country": "Philippines",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "394,086"
+    },
+    {
+        "Country": "Bangladesh",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "414,907"
+    },
+    {
+        "Country": "Denmark",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "398,303"
+    },
+    {
+        "Country": "South Africa",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "419,016"
+    },
+    {
+        "Country": "Hong Kong",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "369,174"
+    },
+    {
+        "Country": "Egypt",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "425,906"
+    },
+    {
+        "Country": "Pakistan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "342,501"
+    },
+    {
+        "Country": "Iran",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "594,892"
+    },
+    {
+        "Country": "Chile",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "317,059"
+    },
+    {
+        "Country": "Romania",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "284,086"
+    },
+    {
+        "Country": "Colombia",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "314,464"
+    },
+    {
+        "Country": "Czech Republic",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "281,778"
+    },
+    {
+        "Country": "Finland",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "297,302"
+    },
+    {
+        "Country": "Peru",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "223,252"
+    },
+    {
+        "Country": "Iraq",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "204,004"
+    },
+    {
+        "Country": "Portugal",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "253,663"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "250,451"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "193,018"
+    },
+    {
+        "Country": "Greece",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "214,874"
+    },
+    {
+        "Country": "Qatar",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "179,571"
+    },
+    {
+        "Country": "Algeria",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "163,473"
+    },
+    {
+        "Country": "Hungary",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "181,848"
+    },
+    {
+        "Country": "Kuwait",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "136,642"
+    },
+    {
+        "Country": "Ethiopia",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "99,269"
+    },
+    {
+        "Country": "Ukraine",
+        "Region": "Europe",
+        "Year": "[n 6]2021",
+        "Estimate GDP": "200,086"
+    },
+    {
+        "Country": "Morocco",
+        "Region": "Africa",
+        "Year": "[n 7]2021",
+        "Estimate GDP": "142,867"
+    },
+    {
+        "Country": "Slovakia",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "116,527"
+    },
+    {
+        "Country": "Ecuador",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "106,166"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "94,243"
+    },
+    {
+        "Country": "Puerto Rico",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "106,526"
+    },
+    {
+        "Country": "Kenya",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "110,347"
+    },
+    {
+        "Country": "Angola",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "70,533"
+    },
+    {
+        "Country": "Cuba",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "126,694"
+    },
+    {
+        "Country": "Oman",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "88,192"
+    },
+    {
+        "Country": "Guatemala",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "85,986"
+    },
+    {
+        "Country": "Bulgaria",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "84,058"
+    },
+    {
+        "Country": "Venezuela",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "111,813"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "69,239"
+    },
+    {
+        "Country": "Luxembourg",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "85,506"
+    },
+    {
+        "Country": "Tanzania",
+        "Region": "Africa",
+        "Year": "[n 8]2021",
+        "Estimate GDP": "70,297"
+    },
+    {
+        "Country": "Turkmenistan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "53,954"
+    },
+    {
+        "Country": "Croatia",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "68,955"
+    },
+    {
+        "Country": "Lithuania",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "66,445"
+    },
+    {
+        "Country": "Costa Rica",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "64,282"
+    },
+    {
+        "Country": "Uruguay",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "59,318"
+    },
+    {
+        "Country": "Panama",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "63,605"
+    },
+    {
+        "Country": "Ivory Coast",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "69,765"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "85,309"
+    },
+    {
+        "Country": "Serbia",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "63,068"
+    },
+    {
+        "Country": "Belarus",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "68,206"
+    },
+    {
+        "Country": "Azerbaijan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "54,622"
+    },
+    {
+        "Country": "DR Congo",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "52,850"
+    },
+    {
+        "Country": "Slovenia",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "61,749"
+    },
+    {
+        "Country": "Ghana",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "79,083"
+    },
+    {
+        "Country": "Myanmar",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "58,582"
+    },
+    {
+        "Country": "Jordan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "45,244"
+    },
+    {
+        "Country": "Tunisia",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "46,687"
+    },
+    {
+        "Country": "Uganda",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "42,661"
+    },
+    {
+        "Country": "Cameroon",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "45,368"
+    },
+    {
+        "Country": "Latvia",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "39,854"
+    },
+    {
+        "Country": "Sudan",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "35,867"
+    },
+    {
+        "Country": "Libya",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "39,006"
+    },
+    {
+        "Country": "Bolivia",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "40,408"
+    },
+    {
+        "Country": "Bahrain",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "38,869"
+    },
+    {
+        "Country": "Paraguay",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "40,458"
+    },
+    {
+        "Country": "Nepal",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "36,207"
+    },
+    {
+        "Country": "Estonia",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "37,191"
+    },
+    {
+        "Country": "Macau",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "29,905"
+    },
+    {
+        "Country": "El Salvador",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "28,737"
+    },
+    {
+        "Country": "Honduras",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "28,489"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "26,595"
+    },
+    {
+        "Country": "Senegal",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "27,625"
+    },
+    {
+        "Country": "Cyprus",
+        "Region": "Asia",
+        "Year": "[n 10]2021",
+        "Estimate GDP": "28,408"
+    },
+    {
+        "Country": "Cambodia",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "26,669"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "24,118"
+    },
+    {
+        "Country": "Zambia",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "21,313"
+    },
+    {
+        "Country": "Iceland",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "25,602"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "23,365"
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "24,460"
+    },
+    {
+        "Country": "Georgia",
+        "Region": "Europe",
+        "Year": "[n 11]2021",
+        "Estimate GDP": "18,696"
+    },
+    {
+        "Country": "Haiti",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "19,044"
+    },
+    {
+        "Country": "Lebanon",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "37,945"
+    },
+    {
+        "Country": "Armenia",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "13,861"
+    },
+    {
+        "Country": "Guinea",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "16,036"
+    },
+    {
+        "Country": "Burkina Faso",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "19,738"
+    },
+    {
+        "Country": "Mali",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "19,157"
+    },
+    {
+        "Country": "Gabon",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "18,521"
+    },
+    {
+        "Country": "Albania",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "18,260"
+    },
+    {
+        "Country": "Afghanistan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "14,939"
+    },
+    {
+        "Country": "Mozambique",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "15,777"
+    },
+    {
+        "Country": "Palestine",
+        "Region": "Asia",
+        "Year": "[n 13]2021",
+        "Estimate GDP": "18,037"
+    },
+    {
+        "Country": "Botswana",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "17,615"
+    },
+    {
+        "Country": "Yemen",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "9,947"
+    },
+    {
+        "Country": "Malta",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "17,721"
+    },
+    {
+        "Country": "Benin",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "17,688"
+    },
+    {
+        "Country": "Nicaragua",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "14,013"
+    },
+    {
+        "Country": "Jamaica",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "14,658"
+    },
+    {
+        "Country": "Mongolia",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "15,098"
+    },
+    {
+        "Country": "Niger",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "14,915"
+    },
+    {
+        "Country": "Guyana",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "8,044"
+    },
+    {
+        "Country": "Brunei",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "14,006"
+    },
+    {
+        "Country": "Madagascar",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "14,450"
+    },
+    {
+        "Country": "North Korea",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "16,750"
+    },
+    {
+        "Country": "Moldova",
+        "Region": "Europe",
+        "Year": "[n 14]2021",
+        "Estimate GDP": "13,680"
+    },
+    {
+        "Country": "Syria",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "19,719"
+    },
+    {
+        "Country": "North Macedonia",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "13,881"
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "12,431"
+    },
+    {
+        "Country": "Mauritius",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "11,525"
+    },
+    {
+        "Country": "Bahamas",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "11,209"
+    },
+    {
+        "Country": "Laos",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "19,074"
+    },
+    {
+        "Country": "Namibia",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "12,236"
+    },
+    {
+        "Country": "Rwanda",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "11,070"
+    },
+    {
+        "Country": "Congo",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "12,841"
+    },
+    {
+        "Country": "Tajikistan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "8,746"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "8,741"
+    },
+    {
+        "Country": "Chad",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "16,410"
+    },
+    {
+        "Country": "Malawi",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "12,199"
+    },
+    {
+        "Country": "Mauritania",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "9,996"
+    },
+    {
+        "Country": "New Caledonia",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "10,071"
+    },
+    {
+        "Country": "Kosovo",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "9,412"
+    },
+    {
+        "Country": "Togo",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "8,160"
+    },
+    {
+        "Country": "Somalia",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "7,628"
+    },
+    {
+        "Country": "Monaco",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "8,596"
+    },
+    {
+        "Country": "Bermuda",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "7,231"
+    },
+    {
+        "Country": "Montenegro",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "5,809"
+    },
+    {
+        "Country": "South Sudan",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "4,304"
+    },
+    {
+        "Country": "Maldives",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "5,406"
+    },
+    {
+        "Country": "Liechtenstein",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "6,608"
+    },
+    {
+        "Country": "Barbados",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "4,844"
+    },
+    {
+        "Country": "French Polynesia",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "6,055"
+    },
+    {
+        "Country": "Cayman Islands",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "5,809"
+    },
+    {
+        "Country": "Fiji",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "4,296"
+    },
+    {
+        "Country": "Eswatini",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "4,732"
+    },
+    {
+        "Country": "Liberia",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "2,445"
+    },
+    {
+        "Country": "Djibouti",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "3,701"
+    },
+    {
+        "Country": "Andorra",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "3,325"
+    },
+    {
+        "Country": "Aruba",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "3,126"
+    },
+    {
+        "Country": "Sierra Leone",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "4,249"
+    },
+    {
+        "Country": "Suriname",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "3,224"
+    },
+    {
+        "Country": "Burundi",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "3,900"
+    },
+    {
+        "Country": "Belize",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "2,492"
+    },
+    {
+        "Country": "Greenland",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "3,273"
+    },
+    {
+        "Country": "Central African Republic",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "2,518"
+    },
+    {
+        "Country": "Cura\u00e7ao",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "2,700"
+    },
+    {
+        "Country": "Bhutan",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "2,381"
+    },
+    {
+        "Country": "Eritrea",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "2,255"
+    },
+    {
+        "Country": "Lesotho",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "2,373"
+    },
+    {
+        "Country": "Cape Verde",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "1,936"
+    },
+    {
+        "Country": "Gambia",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "2,038"
+    },
+    {
+        "Country": "Saint Lucia",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "1,765"
+    },
+    {
+        "Country": "East Timor",
+        "Region": "Asia",
+        "Year": "2021",
+        "Estimate GDP": "2,004"
+    },
+    {
+        "Country": "Seychelles",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "1,287"
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "1,563"
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "1,421"
+    },
+    {
+        "Country": "San Marino",
+        "Region": "Europe",
+        "Year": "2021",
+        "Estimate GDP": "1,702"
+    },
+    {
+        "Country": "Zanzibar",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "2,080"
+    },
+    {
+        "Country": "Solomon Islands",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "1,632"
+    },
+    {
+        "Country": "British Virgin Islands",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "1,539"
+    },
+    {
+        "Country": "Comoros",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "1,340"
+    },
+    {
+        "Country": "Grenada",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "1,115"
+    },
+    {
+        "Country": "Vanuatu",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "981"
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "861"
+    },
+    {
+        "Country": "Saint Vincent and the Grenadines",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "881"
+    },
+    {
+        "Country": "Turks and Caicos Islands",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "943"
+    },
+    {
+        "Country": "Samoa",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "857"
+    },
+    {
+        "Country": "Sint Maarten",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "1,154"
+    },
+    {
+        "Country": "Dominica",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "548"
+    },
+    {
+        "Country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "Region": "Africa",
+        "Year": "2021",
+        "Estimate GDP": "555"
+    },
+    {
+        "Country": "Tonga",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "472"
+    },
+    {
+        "Country": "Micronesia",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "404"
+    },
+    {
+        "Country": "Marshall Islands",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "257"
+    },
+    {
+        "Country": "Cook Islands",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "328"
+    },
+    {
+        "Country": "Palau",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "218"
+    },
+    {
+        "Country": "Anguilla",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "303"
+    },
+    {
+        "Country": "Kiribati",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "227"
+    },
+    {
+        "Country": "Nauru",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "155"
+    },
+    {
+        "Country": "Montserrat",
+        "Region": "Americas",
+        "Year": "2021",
+        "Estimate GDP": "72"
+    },
+    {
+        "Country": "Tuvalu",
+        "Region": "Oceania",
+        "Year": "2021",
+        "Estimate GDP": "60"
+    }
+]
